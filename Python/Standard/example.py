@@ -58,5 +58,5 @@ def callback(bot, update):
                                 text='New message 2', reply_markup={})
 
 
-bot = EzTG.EzTG(token='your bot token',
+bot = EzTG.EzTG(token='2107969642:AAFuOxR8FTY1sR-JHkSICS2u1fLt4c6LtqU',
                 callback=callback)
